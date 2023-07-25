@@ -1,4 +1,5 @@
 # git_practice
-The practice repository that was created when the Git_book was written. 
+The git_practice repository that was created when the Git_book was written.
 
-This repository was created locally and has lived in remotes associated with two personal accounts. The version you find in the ADF&G-DSF account represents the version pushed to the organizational remote in the "Before you go!" chapter. Notice that this version tracks the changes associated with each pull request completed in its history but lack the GitHub specific features where the repository owner and the person requesting the pull request communicated about those changes.
+Git_practice was created as a local repository and has a git log which includes commits from 3 different local repositories, 2 personal user accounts, a fork, and a pull request/merge. This repository was **pushed** to the ADF&G-DSF account in the "Before you go!" chapter of the Git_book. Notice that the pushed repository tracks the changes associated with the pull request in its history but **lacks** the GitHub specific features (In this case the documentation accompanying the pull request).
+
